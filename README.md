@@ -1,24 +1,24 @@
 # Start 
  
- Sample project .aur add kardsfgh rah hu Aree wahh
- 
+Git training  
 ##Introduction 
 
 
-Intero dala hai .
+just lookinf 
 
 
 ##Purpose
 
 
-dafssfhjdhfkf,tjre
+to change the world 
 
 ##Deployment
 hola ola hoal
 ##Ways to contribute
-Fork karo bhai 
 
-retyuiu
+ karo bhai 
+
+u need to 
 
 ##CopyWrite
 srdfdgfhjhkj All rights reserved
