@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Siddant aslgkj sdlkfaj
+
+# THANKS
+
+    all the people 
+	please leave a review if u like this course 
+	
+	
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
